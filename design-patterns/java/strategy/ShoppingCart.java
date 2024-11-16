@@ -1,3 +1,4 @@
+//Context
 class ShoppingCart {
     private PaymentStrategy paymentStrategy;
 
